@@ -13,7 +13,7 @@ I’m a **Software Engineer, Machine Learning Specialist, and AI Researcher** wi
 - 🌱 **Learning & Building:** Generative AI models, Full-Stack MERN applications, and deepening expertise in **data science** and **software engineering**.
 - 🏆 **Achievements:** Qualified GATE, awarded silver medal in B.Tech, completed Amazon ML Summer School, and published over 12 articles on technical topics.
 - ⚡ **Fun Fact:** I’m a techie with a creative flair, holding a “Sangeet Prabhakar” degree in Synthesizer!
-- 📫 How to reach me: https://www.linkedin.com/in/jyotinigam-phoenix/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyotinigam-phoenix/)
 - 😄 Pronouns: She/Her
 
 ---
